@@ -7,7 +7,7 @@
                 <?php
                     if($error)
                     {
-                        echo '<div style="color:red" >Hmm, we don\'t recognize you. Please try again.</div><br>';
+                        echo '<div style="color:red" >Incorrect Login. Please try again.</div><br>';
                     }?>
                 <p><span>Username</span><input class="" type="text" name="username" value="" /></p>
                 <p><span>Password</span><input class="" type="password" name="password" value="" /></p>
