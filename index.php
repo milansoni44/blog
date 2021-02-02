@@ -1,6 +1,6 @@
 <?php
 /**
- * CodeIgniter Rakesh
+ * CodeIgniter Rakesh Milan
  *
  * An open source application development framework for PHP
  *
